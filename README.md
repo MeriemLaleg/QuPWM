@@ -2,7 +2,7 @@
  The two following feature extraction methods  are based on a well-known biological feature generation methodology, Position Weight Matrix (PWM) method. The classificaiton is performed using Supprt Vector Machine (SVM).
  
 ### Dataset  
-The used data set are a already quantized frame extracted using frame length = 100 sample and step=2 sample from three MEG session of  two healthy patient (E001 and E002) and three MEG session of  two epileptic  patient (C001 and C002).
+The used data set are already quantized frames extracted using frame length = 100 sample and step=2 sample from three MEG session of  two healthy patient (E001 and E002) and three MEG session of  two epileptic  patient (C001 and C002).
 These signal are licensed to National Neural Institute- King Fahad Medical City (NNI-KFMC), Riyadh, Saudi Arabia. 
 This data was conducted in accordance with the approval of the Institutional Review Board at KFMC (IRB log number: 15-086, 2015).
 For more information, Please contact professor  Saleh Alshebeili at : dsaleh@ksu.edu.sa
