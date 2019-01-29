@@ -15,4 +15,4 @@ The script “Example_mPWM_models.m” shows an example of feature genration usi
 # Citation
 If you use “QuPWM” for your research, or incorporate our learning algorithms in your work, please cite:
 
-A. Chahid, F. Albalawi, T.N.   Alotaiby, S. Alshebeili, T.M. Laleg-Kirati1, “QuPWM:  Feature Extraction Method for MEG Epileptic Spike Detection”. 27th conference on Intelligent Systems for Molecular Biology.2019.
+A. Chahid, F. Albalawi, T.N.   Alotaiby, S. Alshebeili, T.M. Laleg-Kirati1, “QuPWM:  Feature Extraction Method for MEG Epileptic Spike Detection”. 27th conference on Intelligent Systems for Molecular Biology (ISMB).2019.
