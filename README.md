@@ -8,12 +8,12 @@ This data was conducted in accordance with the approval of the Institutional Rev
 For more information, Please contact professor  Saleh Alshebeili at : dsaleh@ksu.edu.sa
 
 ### Run the PWM-based features extraction  
-1- Download the PWM/PWM_Data_M8.mat dataset of MEG quntized signals from: http://dx.doi.org/10.17632/n9snfr7m59.1
+1- Download the PWM/PWM_Data_M8.mat dataset of MEG quantized signals from: http://dx.doi.org/10.17632/n9snfr7m59.1
  
 2- The script “./PWM/Example_PWM_models.m” shows an example of feature genration using PWM-based method. the feneration features are classifer using SVM model.
 
 ### Run the motif-based PWM (mPWM-based)  features extraction  
-1- Download the mPWM/mPWM_Data_M10.mat dataset of MEG quntized signals from: http://dx.doi.org/10.17632/n9snfr7m59.1
+1- Download the mPWM/mPWM_Data_M10.mat dataset of MEG quantized signals from: http://dx.doi.org/10.17632/n9snfr7m59.1
 
 2- The script “./mPWM/Example_mPWM_models.m” shows an example of feature genration using mPWM-based method. the feneration features are classifer using SVM model.
 
