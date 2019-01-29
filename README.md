@@ -1,4 +1,4 @@
-# QuPWM Quantization based feature generation
+# QuPWM Quantization-based Feature Generation
  The two following feature extraction methods  are based on a well-known biological feature generation methodology, Position Weight Matrix (PWM) method. The classificaiton is performed using Supprt Vector Machine (SVM).
  
 ### Dataset  
