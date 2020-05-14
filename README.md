@@ -20,4 +20,4 @@ For more information, Please contact professor  Saleh Alshebeili at : dsaleh@ksu
 ### Citation
 If you use “QuPWM” for your research, or incorporate our learning algorithms in your work, please cite:
 
-A. Chahid, F. Albalawi, T.N.   Alotaiby, S. Alshebeili, T.M. Laleg-Kirati1, “QuPWM:  Feature Extraction Method for MEG Epileptic Spike Detection”. 27th conference on Intelligent Systems for Molecular Biology (ISMB).2019.
+Chahid, A., Albalawi, F., Alotaiby, T., Al-Hameed, M. H., Alshebeili, S. A., & Laleg-Kirati, T. QuPWM: Feature Extraction Method for Epileptic Spike Classification. IEEE Journal of Biomedical and Health Informatics, 1. https://doi.org/10.1109/JBHI.2020.2972286
